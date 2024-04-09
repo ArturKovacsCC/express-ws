@@ -1,0 +1,11 @@
+
+GET http://localhost:3005/user
+
+###
+
+POST http://localhost:3005/users
+
+{
+    "name": "John",
+    "height": 180
+}
